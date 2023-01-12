@@ -33,10 +33,8 @@ I also got experience in the IT & Telecoms repairs industry, having managed high
     <li>asdasd</li>
 </table>
 <code><img height="20" src="https://www.svgrepo.com/download/452091/python.svg">
-</code>
-<code><img height="20" src="https://www.svgrepo.com/download/475654/github-color.svg">
-</code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1024px-Google_Apps_Script.svg.png?20221103122014">
+</code><code><img height="20" src="https://www.svgrepo.com/download/475654/github-color.svg">
+</code><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1024px-Google_Apps_Script.svg.png?20221103122014">
 </code>
 <code><img height="20" src="https://www.svgrepo.com/download/387812/html-five.svg">
 </code>
