@@ -28,7 +28,7 @@ I also got experience in the IT & Telecoms repairs industry, having managed high
 
 :scroll: [Portfolio](https://github.com/radu-a1091?tab=repositories) 
 
-### __Languages and Tools
+### __Languages and Tools__
 
 <code><img height="20" src="https://www.svgrepo.com/download/452091/python.svg"></code><code><img height="20" src="https://www.svgrepo.com/download/475654/github-color.svg"></code><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1024px-Google_Apps_Script.svg.png?20221103122014"></code>
 <br/>
