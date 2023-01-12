@@ -1,5 +1,7 @@
 <!-- https://github.com/radu-a1091/radu-a1091.git -->
 <h1>Radu Anca</h1>
+
+<br/>
 Hello!
 Thanks for stopping by :grinning:
 
@@ -15,4 +17,33 @@ Thanks for stopping by :grinning:
 <br/>
 Hi, I'm Radu Anca, a passionate Junior Software Developer. Apart of that I love learning new things and any new challenge.
 
+I also got experience in the IT & Telecoms repairs industry, having managed high performing teams and setting up operations for 7 years. I have 13 years experience in Excel, 4 years in Excel VBA and I am proficient in Google App Scripts.
+
 ### __Personal stuff__
+:books:	Currently studying Software Engineering bootcamp with [HyperionDev](https://www.hyperiondev.com/)
+
+:bulb: Learning Python
+
+:dove: How to reach me: LinkedIn is the best way
+
+:scroll: [Portfolio](https://github.com/radu-a1091?tab=repositories) 
+
+### __Languages and Tools
+<code><img height="20" src="https://www.svgrepo.com/download/452091/python.svg"/>
+</code>
+<code><img height="20" src="https://www.svgrepo.com/download/475654/github-color.svg"/>
+</code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1024px-Google_Apps_Script.svg.png?20221103122014"/>
+</code>
+<code><img height="20" src="https://www.svgrepo.com/download/387812/html-five.svg"/>
+</code>
+<code><img height="20" src="https://www.svgrepo.com/download/452185/css-3.svg"/>
+</code>
+<code><img height="20" src="https://www.svgrepo.com/download/376363/django.svg"/>
+</code>
+<code><img height="20" src="https://www.svgrepo.com/download/331762/sql-datasync.svg"/>
+</code>
+<code><img height="20" src="https://www.svgrepo.com/download/354381/sqlite.svg"/>
+</code>
+<code><img height="20" src="https://www.svgrepo.com/download/64578/nlp-neurolinguistic-programation.svg"/>
+</code>
