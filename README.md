@@ -29,21 +29,24 @@ I also got experience in the IT & Telecoms repairs industry, having managed high
 :scroll: [Portfolio](https://github.com/radu-a1091?tab=repositories) 
 
 ### __Languages and Tools
-<code><img height="20" src="https://www.svgrepo.com/download/452091/python.svg"/>
+<table>
+    <li>asdasd</li>
+</table>
+<code><img height="20" src="https://www.svgrepo.com/download/452091/python.svg">
 </code>
-<code><img height="20" src="https://www.svgrepo.com/download/475654/github-color.svg"/>
+<code><img height="20" src="https://www.svgrepo.com/download/475654/github-color.svg">
 </code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1024px-Google_Apps_Script.svg.png?20221103122014"/>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1024px-Google_Apps_Script.svg.png?20221103122014">
 </code>
-<code><img height="20" src="https://www.svgrepo.com/download/387812/html-five.svg"/>
+<code><img height="20" src="https://www.svgrepo.com/download/387812/html-five.svg">
 </code>
-<code><img height="20" src="https://www.svgrepo.com/download/452185/css-3.svg"/>
+<code><img height="20" src="https://www.svgrepo.com/download/452185/css-3.svg">
 </code>
-<code><img height="20" src="https://www.svgrepo.com/download/376363/django.svg"/>
+<code><img height="20" src="https://www.svgrepo.com/download/376363/django.svg">
 </code>
-<code><img height="20" src="https://www.svgrepo.com/download/331762/sql-datasync.svg"/>
+<code><img height="20" src="https://www.svgrepo.com/download/331762/sql-datasync.svg">
 </code>
-<code><img height="20" src="https://www.svgrepo.com/download/354381/sqlite.svg"/>
+<code><img height="20" src="https://www.svgrepo.com/download/354381/sqlite.svg">
 </code>
-<code><img height="20" src="https://www.svgrepo.com/download/64578/nlp-neurolinguistic-programation.svg"/>
+<code><img height="20" src="https://www.svgrepo.com/download/64578/nlp-neurolinguistic-programation.svg">
 </code>
