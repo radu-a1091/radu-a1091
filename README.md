@@ -15,12 +15,12 @@ Thanks for stopping by :grinning:
 </a>
 <br/>
 <br/>
-Hi, I'm Radu Anca, a passionate Junior Software Developer. Apart of that I love learning new things and any new challenge.
+Hi, I'm Radu Anca, a Junior Software Developer. Apart of that I love learning new things and I'm intrigued about anything tech.
 
 I also got experience in the IT & Telecoms repairs industry, having managed high performing teams and setting up operations for 7 years. I have 13 years experience in Excel, 4 years in Excel VBA and I am proficient in Google App Scripts.
 
 ### __Personal stuff__
-:books:	Currently studying Software Engineering bootcamp with [HyperionDev](https://www.hyperiondev.com/)
+:books:	Studied Software Engineering bootcamp with [HyperionDev](https://www.hyperiondev.com/) - enrolled on the 5th of December 2022, graduaded on the 27th January 2023
 
 :bulb: Learning Python
 
