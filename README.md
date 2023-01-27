@@ -37,5 +37,3 @@ I also got experience in the IT & Telecoms repairs industry, having managed high
 <code><img height="20" src="https://www.svgrepo.com/download/387812/html-five.svg"></code><code><img height="20" src="https://www.svgrepo.com/download/452185/css-3.svg"></code><code><img height="20" src="https://www.svgrepo.com/download/376363/django.svg"></code>
 <br/>
 <code><img height="20" src="https://www.svgrepo.com/download/331762/sql-datasync.svg"></code><code><img height="20" src="https://www.svgrepo.com/download/354381/sqlite.svg"></code><code><img height="20" src="https://www.svgrepo.com/download/64578/nlp-neurolinguistic-programation.svg"></code>
-<span style="font-size: 7px">profile picture gear icons PNG Designed By syedhassan from [here]([here](https://pngtree.com/freepng/setting-gear-tools-icon-vector-design_4998532.html?sol=downref&id=bef))
-</span>
